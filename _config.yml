@@ -1,0 +1,28 @@
+name: artisticbuddha
+favicon: null
+layout_spectrum: 0.10616032360121608
+typography_spectrum: 0.9426390277221799
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6519091927912086
+  lightness: 0.45427053910680115
+  saturation: 0.046690088929608464
+  rhythmicContrast: 0.04883467731997371
+purpose: []
